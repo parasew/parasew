@@ -1,4 +1,5 @@
 Suggested reading:
+* [NixOS 24.05 "Uakari"](https://discourse.nixos.org/t/lets-have-a-great-24-05-release-cycle/43564)
 * [Critical Decentralisation Cluster at 37C3](https://decentral.community)
 * [Excuse me, but the industries AI is disrupting are not lucrative](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is)
 * [BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses](https://francozappa.github.io/post/2023/bluffs-ccs23/)
