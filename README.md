@@ -1,5 +1,5 @@
 Suggested reading:
-* [NixOS 24.05 "Uakari"](https://discourse.nixos.org/t/lets-have-a-great-24-05-release-cycle/43564)
+* [NixOS 24.05 "Uakari"](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
 * [Critical Decentralisation Cluster at 37C3](https://decentral.community)
 * [Excuse me, but the industries AI is disrupting are not lucrative](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is)
