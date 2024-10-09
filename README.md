@@ -1,4 +1,5 @@
 Suggested reading:
+* [Libreboot 20241008 released](https://libreboot.org/news/libreboot20241008.html)
 * [NixOS 24.05 "Uakari"](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
 * [Critical Decentralisation Cluster at 37C3](https://decentral.community)
