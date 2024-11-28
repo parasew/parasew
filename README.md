@@ -1,8 +1,8 @@
 Suggested reading:
+* [Critical Decentralisation Cluster (CDC) at 38C3 Chaos Communication Congress](https://decentral.community)
 * [Libreboot 20241008 released](https://libreboot.org/news/libreboot20241008.html)
 * [NixOS 24.05 "Uakari"](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
-* [Critical Decentralisation Cluster at 37C3](https://decentral.community)
 * [Excuse me, but the industries AI is disrupting are not lucrative](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is)
 * [BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses](https://francozappa.github.io/post/2023/bluffs-ccs23/)
 * [Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)
