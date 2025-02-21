@@ -1,7 +1,7 @@
 Suggested reading:
+* [Rust in Linux Kernel drama](https://lore.kernel.org/rust-for-linux/CAHk-=wgLbz1Bm8QhmJ4dJGSmTuV5w_R0Gwvg5kHrYr4Ko9dUHQ@mail.gmail.com/)
 * [Critical Decentralisation Cluster (CDC) at 38C3 Chaos Communication Congress](https://decentral.community)
-* [Libreboot 20241008 released](https://libreboot.org/news/libreboot20241008.html)
-* [NixOS 24.05 "Uakari"](https://nixos.org/blog/announcements/2024/nixos-2405/)
+* [Nixos 24.11 Vicuña](https://nixos.org/blog/announcements/2024/nixos-2411/)
 * [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
 * [Excuse me, but the industries AI is disrupting are not lucrative](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is)
 * [BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses](https://francozappa.github.io/post/2023/bluffs-ccs23/)
@@ -9,6 +9,5 @@ Suggested reading:
 * [Lobbying for open documentation, firmware & repair  (and tax breaks for open source)](https://twitter.com/parasew/status/1708530998676275692)
 * [Unity Gaming Crisis: the problem with vendor lock-in in game development](https://opengears.medium.com/the-unity-gaming-crisis-problems-of-unitys-new-pricing-model-and-the-problem-of-vendor-lock-in-68cdaff01ec1)
 * [Trouble brewing for #RISCV as issue of technology transfer is questioned](https://t.co/7WY3Cdj6S1)
-* [Ask Microsoft: Are you using our personal data to train AI?](https://t.co/pmCuMEvxur)
 * [Linux kernel driver development in Rust: examples and best practices](https://t.co/ITxSyHPTgv)
 * [Asahi Linux & nixOS on Apple MacBook: UEFI Boot Standalone NixOS (2023-12-24)](https://github.com/tpwrules/nixos-apple-silicon/blob/main/docs/uefi-standalone.md)
