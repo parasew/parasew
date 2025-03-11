@@ -1,7 +1,7 @@
-Suggested reading:
+Suggested discourse:
+* [Louis Rossmann: "Ignore Firefox, install Librewolf and go on with your life"](https://www.youtube.com/watch?v=-8bTquKjzos)
 * [Rust in Linux Kernel drama](https://lore.kernel.org/rust-for-linux/CAHk-=wgLbz1Bm8QhmJ4dJGSmTuV5w_R0Gwvg5kHrYr4Ko9dUHQ@mail.gmail.com/)
 * [Critical Decentralisation Cluster (CDC) at 38C3 Chaos Communication Congress](https://decentral.community)
-* [Nixos 24.11 Vicuña](https://nixos.org/blog/announcements/2024/nixos-2411/)
 * [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
 * [Excuse me, but the industries AI is disrupting are not lucrative](https://www.theintrinsicperspective.com/p/excuse-me-but-the-industries-ai-is)
 * [BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses](https://francozappa.github.io/post/2023/bluffs-ccs23/)
