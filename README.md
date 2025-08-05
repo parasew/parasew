@@ -1,5 +1,5 @@
 Suggested discourse:
-* [We’re Not Innovating, We’re Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
+* [Nix Vegas: Rebuild The World at DEF CON 3](https://nix.vegas/)
 * [Two publishers and three authors fail to understand what “vibe coding” means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
 * [Louis Rossmann: "Ignore Firefox, install Librewolf and go on with your life"](https://www.youtube.com/watch?v=-8bTquKjzos)
 * [Rust in Linux Kernel drama](https://lore.kernel.org/rust-for-linux/CAHk-=wgLbz1Bm8QhmJ4dJGSmTuV5w_R0Gwvg5kHrYr4Ko9dUHQ@mail.gmail.com/)
