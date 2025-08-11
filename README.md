@@ -1,4 +1,5 @@
 Suggested discourse:
+* [WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding](https://arxiv.org/abs/2507.12869)
 * [Nix Vegas: Rebuild The World at DEF CON 33](https://nix.vegas/)
 * [Two publishers and three authors fail to understand what “vibe coding” means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
 * [Louis Rossmann: "Ignore Firefox, install Librewolf and go on with your life"](https://www.youtube.com/watch?v=-8bTquKjzos)
