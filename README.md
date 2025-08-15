@@ -1,4 +1,5 @@
 Suggested discourse:
+* [Reaction to Coindesk’s poorly researched article about an alleged 51% attack on the Monero Network](https://riat.at/reaction-coindesk-research-article-alleged-51-attack-on-monero-pow-network/)
 * [WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding](https://arxiv.org/abs/2507.12869)
 * [Nix Vegas: Rebuild The World at DEF CON 33](https://nix.vegas/)
 * [Two publishers and three authors fail to understand what “vibe coding” means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
