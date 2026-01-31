@@ -1,4 +1,5 @@
-Suggested discourse:
+* [Decentralized Internet and Privacy Devroom at FOSDEM 2026 organized by RIAT and decentral.community](https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/)
+* [Critical Decentralisation Cluster (CDC) at 39th Chaos Communication Congress 39C3 in Hamburg](https://decentral.community/39C3/)
 * [Qubic assault on XMR Monero was NOT a 51% Attack](https://riat.at/qubic-attack-on-xmr-monero-no-51-attack-proven/)
 * [Reaction to Coindesk’s article about an alleged 51% attack on the Monero Network](https://riat.at/reaction-coindesk-research-article-alleged-51-attack-on-monero-pow-network/)
 * [WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding](https://arxiv.org/abs/2507.12869)
