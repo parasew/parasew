@@ -1,3 +1,4 @@
+* [AI is rotting your brain: do the difficult tasks](https://www.youtube.com/watch?v=ZumXpZzDsgo)
 * [Decentralized Internet and Privacy Devroom at FOSDEM 2026 organized by RIAT and decentral.community](https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/)
 * [Critical Decentralisation Cluster (CDC) at 39th Chaos Communication Congress 39C3 in Hamburg](https://decentral.community/39C3/)
 * [Qubic assault on XMR Monero was NOT a 51% Attack](https://riat.at/qubic-attack-on-xmr-monero-no-51-attack-proven/)
